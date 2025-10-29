@@ -24,7 +24,6 @@ public class segitiga {
         c = myObj.nextDouble();
 
         luas = 0.5 * alas * tinggi;  
-        
         keliling = a + b + c;
 
         System.out.println("hasil luas :" + luas);
