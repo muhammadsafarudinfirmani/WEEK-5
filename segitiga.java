@@ -28,6 +28,6 @@ public class segitiga {
         keliling = a + b + c;
 
         System.out.println("hasil luas :" + luas);
-        System.out.println("keliling :2" + keliling);
+        System.out.println("hasil keliling :" + keliling);
     }
 }
