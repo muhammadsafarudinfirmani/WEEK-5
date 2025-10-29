@@ -12,15 +12,15 @@ public class segitiga {
         double luas;
         double keliling;
 
-        System.out.println("alas :");
+        System.out.println("masukkan alas :");
         alas = myObj.nextDouble();
-        System.out.println("tinggi :");
+        System.out.println(" masukkan tinggi :");
         tinggi = myObj.nextDouble();
-        System.out.println("a :");
+        System.out.println("masukkan a :");
         a = myObj.nextDouble();
-        System.out.println("b :");
+        System.out.println("masukkan b :");
         b = myObj.nextDouble();
-        System.out.println("c :");
+        System.out.println("masukkan c :");
         c = myObj.nextDouble();
 
         luas = 0.5 * alas * tinggi;  
